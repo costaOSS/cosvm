@@ -1,0 +1,6 @@
+{
+  "name": "CosVM",
+  "description": "A high-performance, 64-bit Android-on-Android sandbox and virtual machine manager optimized for ARM64-v8a and x86_64 devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
